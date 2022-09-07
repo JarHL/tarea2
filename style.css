@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(56, 218, 164);
+}
+
+.table{
+    width: 100%;
+    background-color: black;
+    border-width: 1px;
+    border-color: gray;
+    border-style: solid;
+}
+
+
+.colorrojo{
+    background-color: rgb(187, 27, 27);
+}
+
+.colorazul{
+    background-color: rgb(111, 192, 247);
+}
+
+.colormorado{
+    background-color: rgb(105, 77, 150);
+}
+
+.colorverde{
+    background-color: rgb(114, 204, 114);
+}
+
+.colorrosa{
+    background-color: rgb(255, 66, 66);
+}
+
+.coloramarillo{
+    background-color: rgb(250, 229, 42);
+}
+
+.colorblanco{
+    background-color: rgb(255, 255, 255);
+}
+
+.letrablanca{
+    color: white;
+}
+
+.textoDer{
+    text-align: right;
+}
+
+.tamannoLetra{
+    font-size: 200%;
+}
